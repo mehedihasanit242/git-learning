@@ -29,5 +29,6 @@ git log
 git add .
 git diff
 git commit -m "comment"
-git chekout (version name)
-git 
+git checkout (version name)
+git show
+git diff --staged
