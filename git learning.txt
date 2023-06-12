@@ -1,0 +1,16 @@
+git learning 
+
+first desctop folder add git repository command---- git init
+2.then folder create command mkdir, file crate command
+
+cd desktop
+cd.. 
+mkdir
+touch file name
+git status 
+git log
+git add .
+git diff
+git commit -m "comment"
+git chekout (version name)
+git 
